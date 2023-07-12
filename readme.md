@@ -1,6 +1,6 @@
 # Spring Boot,Prometheus,Grafana,MySQL - Response Time Monitoring,Count of Service Calls Monitoring
 
-[Medium Link](https://medium.com/@htyesilyurt/spring-boot-prometheus-grafana-response-time-count-of-service-calls-cpu-usage-monitoring-with-f2dd36d7dfc8).
+Medium article link -> [Click](https://medium.com/@htyesilyurt/spring-boot-prometheus-grafana-response-time-count-of-service-calls-cpu-usage-monitoring-with-f2dd36d7dfc8).
 
 Technologies
 ------------
