@@ -11,4 +11,4 @@ Technologies
 
 - ### Main Dashboard
 
-  ![main](https://github.com/tugayesilyurt/spring-prometheus-grafana-response-time-dashboard/blob/main/assets/dashboard.PNG)
+  ![main](https://github.com/tugayesilyurt/spring-prometheus-grafana-response-time-dashboard/blob/main/assets/dashboard.png)
